@@ -35,4 +35,13 @@ plot(ecg3, type = "l", xlab = "Samples, n", ylab = "Magnitude, mV")
 ```
 ![Example #3](https://raw.githubusercontent.com/nikitarem/ECG-Signal-Model-Generator-For-R-Language/main/Pictures/3.png)
 
-Best regards, nikitarem.
+# Installation
+Download file **ecg_signal.R**, launch it with Your R Gui or RStudio, run the code to get the function into the variable browser. Now You can use function **ecg_signal()** in the current session.
+
+### ALTERNATIVE
+Copy the code from file **ecg_signal.R** into Your R Script (or R Notebook). Run the code to get the function into the variable browser. Now You can use function **ecg_signal()** in Your R Script.
+
+
+
+
+*Best regards, nikitarem.*
